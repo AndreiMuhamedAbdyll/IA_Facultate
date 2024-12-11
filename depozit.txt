@@ -1,0 +1,107 @@
+# Articole din Depozit
+
+1         |         Ciocan         |         Unelte
+2         |         Frigider         |         Bucatarie
+3         |         Intrerupator         |         Materiale electrice
+4         |         Macara         |         Macarale
+5         |         Teava         |         Instalatii sanitare
+6         |         Ciment         |         Materiale de constructii
+7         |         Plita         |         Bucatarie
+8         |         Serpentina         |         Instalatii sanitare
+9         |         Acumulator         |         Materiale electrice
+10         |         Carota         |         Unelte
+11         |         Saculet ciment         |         Materiale de constructii
+12         |         Masina de gaurit         |         Unelte
+13         |         Lampa de birou         |         Electrocasnice
+14         |         Polizor Unelte         |         Unelte
+15         |         Blender         |         Bucatarie
+16         |         Rezervor de apa         |         Instalatii sanitare
+17         |         Coltar         |         Perne
+18         |         Parchet         |         Materiale de constructii
+19         |         Router         |         Materiale electrice
+20         |         Cleste         |         Unelte
+21         |         Masina de spalat         |         Bucatarie
+22         |         Teava de cupru         |         Instalatii sanitare
+23         |         Fier de calcat         |         Electrocasnice
+24         |         Telecomanda         |         Electrocasnice
+25         |         Usa         |         Materiale de constructii
+26         |         Frigider         |         Electrocasnice
+27         |         Incarcator de masina         |         Materiale electrice
+28         |         Butelie de gaz         |         Bucatarie
+29         |         Cap de sudura         |         Unelte
+30         |         Lungime cablu         |         Materiale electrice
+31         |         Masca de protectie         |         Unelte
+32         |         Piese auto         |         Macarale
+33         |         Lampa de sudura         |         Unelte
+34         |         Cuptor         |         Bucatarie
+35         |         Drill         |         Unelte
+36         |         Solutie curatat         |         Bucatarie
+37         |         Placi ceramice         |         Materiale de constructii
+38         |         Teava PVC         |         Instalatii sanitare
+39         |         Picamer         |         Unelte
+40         |         Perie electrica         |         Unelte
+41         |         Frigider vechi         |         Bucatarie
+42         |         Lustra lumina         |         Materiale electrice
+43         |         Plita cu inductie         |         Bucatarie
+44         |         Teava otel         |         Instalatii sanitare
+45         |         Generator de curent         |         Materiale electrice
+46         |         Carucior         |         Unelte
+47         |         Fierastraie circular         |         Unelte
+48         |         Lampa cu LED         |         Materiale electrice
+49         |         Cozonac         |         Alimente
+50         |         Scaun birou         |         Perne
+51         |         Mobilier living         |         Perne
+52         |         Placaj         |         Materiale de constructii
+53         |         Perie pentru vopsea         |         Unelte
+54         |         Masina de cusut         |         Electrocasnice
+55         |         Bocanci de siguranta         |         Unelte
+56         |         Furtun apa         |         Instalatii sanitare
+57         |         Abajur         |         Electrocasnice
+58         |         Pistola de vopsit         |         Unelte
+59         |         Sistem de irigatie         |         Instalatii sanitare
+60         |         Lampa pentru gradina         |         Materiale electrice
+61         |         Creion de marcaj         |         Unelte
+62         |         Scara telescopica         |         Unelte
+63         |         Generator         |         Materiale electrice
+64         |         Placi de gips         |         Materiale de constructii
+65         |         Set de chei         |         Unelte
+66         |         Scaun camping         |         Perne
+67         |         Masina de gaurit         |         Unelte
+68         |         Extractor de aer         |         Instalatii sanitare
+69         |         Lampa solara         |         Materiale electrice
+70         |         Lampa de iluminat         |         Materiale electrice
+71         |         Masina de tocat carne         |         Bucatarie
+72         |         Soda caustica         |         Materiale de constructii
+73         |         Bucatarie modulabila         |         Bucatarie
+74         |         Acumulator         |         Materiale electrice
+75         |         Sarma inox         |         Unelte
+76         |         Furtun de gradina         |         Instalatii sanitare
+77         |         Adhesiv pentru faianta         |         Materiale de constructii
+78         |         Panou solar         |         Materiale electrice
+79         |         Filtru de aer         |         Unelte
+80         |         Rotile carucior         |         Unelte
+81         |         Raft metalic         |         Materiale de constructii
+82         |         Furtun de apa         |         Instalatii sanitare
+83         |         Polizor unghiular         |         Unelte
+84         |         Solutie curatitoare         |         Bucatarie
+85         |         Raft de perete         |         Perne
+86         |         Parchet din lemn         |         Materiale de constructii
+87         |         Cupola pentru becuri         |         Materiale electrice
+88         |         Alimente congelate         |         Bucatarie
+89         |         Lampa birou         |         Electrocasnice
+90         |         Scaun de gradina         |         Perne
+91         |         Masina de spalat vase         |         Bucatarie
+92         |         Lampa pentru birou         |         Materiale electrice
+93         |         Tocator         |         Bucatarie
+94         |         Boiler         |         Instalatii sanitare
+95         |         Adhesiv pentru beton         |         Materiale de constructii
+96         |         Abajur lampa         |         Materiale electrice
+97         |         Plita electrica         |         Bucatarie
+98         |         Panou fotovoltaic         |         Materiale electrice
+99         |         Ferma de masini         |         Macarale
+100        |         Combustibil auto         |         Macarale
+1234567      |        Sampanie        |        Bucatarie
+1      |      Ciocan      |      Unelte
+1   |   Ciocan   |   Unelte
+3221  |  Calculator  |  Electrocasnice
+451 | Pix | Bucatarie
